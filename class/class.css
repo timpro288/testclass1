@@ -1,0 +1,10 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background: url(img/blackboard-background-powerpoint-29.jpg)
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
